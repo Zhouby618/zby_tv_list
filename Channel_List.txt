@@ -1,5 +1,24 @@
 国际,#genre#
 BBC News HD,  https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8 Al Jazeera,https://example.com/aj.m3u8
+TVB 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+TVB 星河频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
+TVB 经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+TVB 娱乐新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
+卫视电影台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941625
+卫视中文台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941624
+国家地理频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941665
+国家地理野生频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941664
+History,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941661
+半岛·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+CNN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
+BBC World News,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
+Sky News,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941684
+FOX News Channel,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
+EuroNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941686
+Bloomberg,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941692
+NHK,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941611
+NHK World - Japan,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941610
+
 
 
 
